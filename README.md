@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Sol 👋
 
+- 🔭 I’m currently working on Migo, my first baby app for people that like to see each other in real-life.
+- 🌱 I’m currently learning Neo4j as my first graph DB!
+- 🌎 English, Spanish, Italian.
 <!--
 **SolKuczala/solKuczala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
